@@ -126,18 +126,6 @@ npm run build
 
 ---
 
-## 🔑 Cuentas de Demostración Preconfiguradas
-
-La pantalla de bienvenida incluye botones de **Acceso Rápido con 1-Clic**, o puedes ingresar manualmente con las siguientes credenciales:
-
-| Perfil | Correo Electrónico | Contraseña por Defecto | Rol |
-|---|---|---|---|
-| 👑 **Super Master** | `TatoSenpaiSape@gmail.com` | `Sergio123Andres123` | `supermaster` |
-| 📜 **Master de Prueba** | `master_elminster@dnd.com` | `dnd2024` | `dm` |
-| ⚔️ **Jugador de Prueba** | `jugador_sergio@dnd.com` | `dnd2024` | `player` |
-
----
-
 ## 📂 Estructura del Proyecto
 
 ```text
